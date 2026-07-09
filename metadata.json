@@ -1,0 +1,6 @@
+{
+  "name": "LegalSimplify",
+  "description": "AI-Powered Legal Document Analyzer and Risk Assessor with Bank-Grade security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
